@@ -1,1 +1,2 @@
-# class-30-vanishing-pigs
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
